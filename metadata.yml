@@ -1,0 +1,14 @@
+---
+:id: 139571463
+:submitters:
+- :name: Shivam Singh
+  :email: cs1200383@iitd.ac.in
+- :name: Tanmay Tanmay
+  :email: cs1200399@iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-10-09 16:38:42.555690000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-10-09 09:38:42.555690000 Z
+:status: processed
+:score: 53.0
